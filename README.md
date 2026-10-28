@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, mundo! 🚀 Sou o Douglas Gomes de Almeida
 
-<!--
-**douglasmyself/douglasmyself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Licenciatura em Computação** na faculdade Estácio, apaixonado por tecnologia, educação e desenvolvimento de software. Busco sempre unir a didática com a programação para criar soluções eficientes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 O que estou estudando no momento:
+- 🌐 **Desenvolvimento Web:** HTML, CSS, JavaScript
+- 🐍 **Linguagens:** Python, Java
+- 📊 **Banco de Dados:** SQL / MySQL
+- 🏫 **Educação & Tecnologia:** Metodologias ativas e ensino de computação
+
+---
+
+### 📊 Minhas Estatísticas no GitHub:
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=douglasmyself&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasmyself&layout=compact&theme=radical"/>
+</div>
+
+---
+
+### 📫 Como me encontrar:
+- **LinkedIn:** www.linkedin.com/in/douglasmyself
+- **E-mail:** douglasmyself@outlook.com
