@@ -14,11 +14,11 @@ Estudante de **Licenciatura em Computação** na faculdade Estácio, apaixonado 
 
 ### 📊 Minhas Estatísticas no GitHub:
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=douglasmyself&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true" />
-  <br><br>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasmyself&amp;layout=compact&amp;theme=radical" />
-</div>
+### 📊 As minhas Estatísticas no GitHub:
+
+[![Estatísticas do Douglas](https://github-readme-stats.vercel.app/api?username=douglasmyself&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/douglasmyself)
+
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasmyself&layout=compact&theme=radical)](https://github.com/douglasmyself)
                                                                                                                              
 ---
 
