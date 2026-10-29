@@ -14,16 +14,12 @@ Estudante de **Licenciatura em Computação** na faculdade Estácio, apaixonado 
 
 ### 📊 Minhas Estatísticas no GitHub:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=douglasmyself&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do Douglas" />
-</p>
+[![Visitas no Perfil](https://komarev.com/ghpvc/?username=douglasmyself&color=brightgreen&style=flat-square)](https://github.com/douglasmyself)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasmyself&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</p>
-                                                                                                                             
+- ⚡ **Foco atual:** Praticando lógica de programação, construindo projetos e aprendendo versionamento de código com Git/GitHub.
+
 ---
 
 ### 📫 Como me encontrar:
-- **LinkedIn:** www.linkedin.com/in/douglasmyself
+- **LinkedIn:** [www.linkedin.com/in/douglasmyself](https://www.linkedin.com/in/douglasmyself)
 - **E-mail:** douglasmyself@outlook.com
